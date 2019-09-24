@@ -4,7 +4,6 @@
 % inputs_str = inputdlg('enter your data','inputs',[1 40]);
 % divisions_num = double(str2num(inputs_str{1}));
 %%
-
 divisions_num = [32 16 8 4];
 num = zeros(4,1);
 accuracy = zeros(4,1);

@@ -4,7 +4,6 @@
 %%
 % part 1: feature extraction
 ff = cifar_10_features(double(tr_data));% row cotain mean and variance
-% clear f label loop x
 
 %%
 %part 2: bayes learn:
