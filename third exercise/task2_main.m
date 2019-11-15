@@ -1,3 +1,4 @@
+% ahmed.elsayes@tuni.fi
 % Exercise 3  Task 2
 % loading data 
 % run cifar_10_read_data.m % load data
