@@ -1,3 +1,4 @@
+% ahmed.elsayes@tuni.fi
 clc; clear all; close all; 
 % x = [1 2 3 4 5 6 7 8 9];
 % y = [1 2 3.8 3.3 6 5.7 7.2 7.8 8.6];
